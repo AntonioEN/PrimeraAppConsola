@@ -6,7 +6,8 @@ namespace PrimeraAppConsola
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Actualizacion del mensaje en castellano
+            Console.WriteLine("Hola Mundo!");
         }
     }
 }
